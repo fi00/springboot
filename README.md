@@ -1,2 +1,2 @@
 # sshDemo
-spring + springMVC + hibernate 
+spring boot + spring-data-jpa + mysql
